@@ -7,7 +7,7 @@ keywords:
 author: ErikjeMS
 ms.author: erikje
 manager: dougeby
-ms.date: 02/27/2020
+ms.date: 03/17/2020
 ms.topic: conceptual
 ms.service: microsoft-intune
 ms.subservice: remote-actions
@@ -46,7 +46,7 @@ This article shows you how to view all your devices, and their properties in the
       - [Wipe](devices-wipe.md#wipe)
       - [Delete](devices-wipe.md#delete-devices-from-the-intune-portal)
       - [Remote lock](device-remote-lock.md)
-      - [Synch](device-sync.md)
+      - [Sync](device-sync.md)
       - [Reset passcode](device-passcode-reset.md)
       - [Restart](device-restart.md) (Windows only)
       - [Fresh Start](device-fresh-start.md) (Windows only)
